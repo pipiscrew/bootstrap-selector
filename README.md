@@ -36,8 +36,10 @@ $("#client_s_users").setSelected(dataP,"user_id")
 
 
 please see the examples.
+<br><br>
 
-
+Example at [jsfiddle](https://jsfiddle.net/s9qezkwz/)
+<br><br>
 
 
 ##This project uses the following 3rd-party dependency :<br>
