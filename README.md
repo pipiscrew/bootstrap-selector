@@ -50,3 +50,5 @@ Example at [jsfiddle](https://jsfiddle.net/s9qezkwz/)
 Copyright (c) 2017 [PipisCrew](http://pipiscrew.com)
 
 Licensed under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
+
+similar [chosen](https://github.com/harvesthq/chosen)
